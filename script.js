@@ -5,7 +5,7 @@ document.getElementById("enterBtn").addEventListener("click",function(){
 
 	let heading=document.createElement("h1");
 
-	heading.innerText="Entered the Metaverse";
+	heading.innerText="Entered Metaverse";
 
 	para.innerText="";
 	para.appendChild(heading);
