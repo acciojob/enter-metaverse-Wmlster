@@ -1,7 +1,7 @@
 let para=document.getElementById("status");
 
 
-document.getElementById("enterBtn").addEventListener("click",function(){
+enterBtn.addEventListener("click",function(){
 
 	let heading=document.createElement("h1");
 
