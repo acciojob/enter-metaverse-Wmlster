@@ -10,4 +10,4 @@ enterBtn.addEventListener("click",function(){
 	para.innerText="";
 	para.appendChild(heading);
 	
-});
+})
